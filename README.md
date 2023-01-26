@@ -1,6 +1,6 @@
 # Expresso
 
-An internal tool for a coffee shop that allows users to:
+An internal tool for restaurants/coffee shops that allows users to:
 - Create, view, update, and delete menus
 - Create, view, update, and delete menu items
 - Create, view, update, and delete employees
